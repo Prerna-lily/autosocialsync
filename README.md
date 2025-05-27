@@ -42,8 +42,8 @@ An end-to-end AI-powered social media automation pipeline that generates images,
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/social-media-automation.git
-cd social-media-automation
+git clone https://github.com/prerna-lily/autosocialsync.git
+cd autosocialsync
 
 # Install dependencies
 pip install -r requirements.txt
